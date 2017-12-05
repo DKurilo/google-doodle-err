@@ -1,11 +1,11 @@
 # Google, fix it, please!
-It's a real issue! It can completely confuse our children! It can make us feeling incompetent!  
+It's a real issue! It can completely confuse our children! It can make us feel incompetent!  
 Check this Google doodle: https://www.google.com/?fpdoodle=1&doodle=32615474&hl=en&ntp=1&nord=1
 
-These are image with results:  
+This is the image with the results:  
 ![alt Google ](https://raw.githubusercontent.com/DKurilo/google-doodle-err/master/results.png)
 
-You can see shortest program lengths (in blocks) for each level.  
+You can see the shortest program lengths (in blocks) for each level.  
 First level - 2 blocks  
 Second level - 5 blocks  
 Third level - 4 blocks  
@@ -21,7 +21,7 @@ Your children shouldn't trust Google!
 ![alt AAAAAA! ](https://raw.githubusercontent.com/DKurilo/google-doodle-err/master/42_plan_aaa.jpg)
 
 ## Spoiler alert
-Don't scroll more before you finished this doodle.
+Don't scroll further before you finish this doodle.
 
 
 
@@ -63,7 +63,7 @@ Don't scroll more before you finished this doodle.
 
 
 
-# Real solutions are here:
+# The real solutions are here:
 ## Level 1:  
 
 ![alt Google ](https://raw.githubusercontent.com/DKurilo/google-doodle-err/master/level-1.png)
@@ -88,5 +88,5 @@ Don't scroll more before you finished this doodle.
 
 ![alt Google ](https://raw.githubusercontent.com/DKurilo/google-doodle-err/master/level-6.png)
 
-YOU NEED JUST 4 blocks to finish the last level!  
+YOU NEED JUST 4 BLOCKS TO FINISH THE LAST LEVEL!  
 
