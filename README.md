@@ -14,7 +14,7 @@ Fifth level - 6 blocks
 Sixth level - 6 blocks  
 
 ## Beware! Google hides truth!
-Real code length for the fifth level: 5 blocks and for sixth level: 4 blocks!  
+Real code length the fourth level: 6 blocks, for the fifth level: 5 blocks and for sixth level: 4 blocks!  
 Solution for fifth level is from: https://www.reddit.com/r/ProgrammerHumor/comments/7hrikj/valid_shortest_solution_that_requires_40_hours_to/  
 
 Your children shouldn't trust Google!
